@@ -32,13 +32,12 @@ iprototype.nl
 
 kiwielectronics.nl
 
-## workshop
-
-http://arduino.cc/en/tutorial/blink
-
-
 olimex.com
 
 adafruit.com
 
 sparkfun.com
+
+## workshop
+
+http://arduino.cc/en/tutorial/blink
