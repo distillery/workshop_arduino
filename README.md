@@ -14,6 +14,12 @@ http://playground.arduino.cc/Main/ArduinoPinCurrentLimitations
 
 http://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band
 
+http://codeduino.com/information-and-news/hardware/arduino-vs-raspberry-pi/
+
+http://github.com
+
+https://thingspeak.com/
+
 ## (Web)shops
 
 Gotron.be (Gent & Aalst)
@@ -25,6 +31,11 @@ Antratek.be
 iprototype.nl
 
 kiwielectronics.nl
+
+## workshop
+
+http://arduino.cc/en/tutorial/blink
+
 
 olimex.com
 
