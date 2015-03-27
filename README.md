@@ -17,10 +17,17 @@ http://www.digikey.com/en/resources/conversion-calculators/conversion-calculator
 ## (Web)shops
 
 Gotron.be (Gent & Aalst)
+
 http://www.electroshopdendermonde.be/ 
+
 Antratek.be
+
 iprototype.nl
+
 kiwielectronics.nl
+
 olimex.com
+
 adafruit.com
+
 sparkfun.com
