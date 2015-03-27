@@ -41,3 +41,7 @@ sparkfun.com
 ## workshop
 
 http://arduino.cc/en/tutorial/blink
+
+http://arduino.cc/en/Tutorial/SoftwareSerialExample
+
+
